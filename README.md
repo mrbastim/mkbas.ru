@@ -1,2 +1,0 @@
-# mkbas.ru
-mk
